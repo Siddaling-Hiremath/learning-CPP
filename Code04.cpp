@@ -12,9 +12,9 @@ int main(){
 }
 
 int MaxOfThree(int a, int b, int c){
-    if(a<b && c<b){
+    if(a<=b && c<=b){
         return b;
-    } else if(b<c && a<c) {
+    } else if(b<=c && a<=c) {
         return c;
     } else {
         return a;
