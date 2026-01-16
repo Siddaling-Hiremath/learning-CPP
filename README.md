@@ -5,13 +5,13 @@ This repository contains my **C++ practice programs** as I learn and explore pro
 ## 📚 Topics Covered (so far)
 - ✅ Basic I/O using `cin` and `cout`
 - ✅ Data types and variables
-- ✅ Conditionals, loops, and functions  
+- ✅ Conditionals, loops, and functions
 - ✅ Array
+- ✅ Pattern
 - ✅ Vetor
 - ✅ pointers
 - ✅ Subarray's
 - ✅ Kadane's algorithm
-  
 ## 🛠️ Tools
 - **Language:** C++  
 - **Compiler:** g++  
