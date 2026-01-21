@@ -19,5 +19,5 @@ This repository contains my **C++ practice programs** as I learn and explore pro
 
 ## ▶️ How to Run
 ```bash
-g++ Code01.cpp -o Code01
-./Code01
+g++ Code01.cpp -o Code01.exe
+./Code01.exe
